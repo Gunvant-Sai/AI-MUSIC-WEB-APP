@@ -1,0 +1,33 @@
+.H3man {
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0;
+}
+
+#NOTE {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+   background:URl("background.jpg");
+   background-size: cover;
+}
+
+#Song{
+    height: auto;
+    width: auto;
+    font-size: 20px;
+}
+
+#Big {
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas {
+    border: 5px solid lightskyblue;
+    border-radius: 25px;
+    box-shadow: 3px purple;
+    margin-top: 35px;
+}
